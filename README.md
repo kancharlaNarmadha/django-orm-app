@@ -45,7 +45,11 @@ admin.site.register(Student,StudentAdmin)
 ```
 
 ## OUTPUT:
-![OUTPUT](./ex 2 web uhh.png)
+![ex 2 web uhh](https://github.com/kancharlaNarmadha/django-orm-app/assets/119559316/b2aa98e4-a4ef-4fc0-be66-1374d88a7f0f)
+
+
+
+
 
 ## RESULT:
 Thus the program have been executed successfully.
