@@ -55,7 +55,7 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT:
 
 
-![Screenshot 2023-05-18 082358](https://github.com/kancharlaNarmadha/django-orm-app/assets/119559316/18ef7bd8-6ead-48c7-9164-c52fbce01b8a)
+![Screenshot 2023-05-18 082358](https://github.com/kancharlaNarmadha/django-orm-app/assets/119559316/18ef7bd8-6ead-48c7-9164-c52fbce01b8a).
 
 
 
